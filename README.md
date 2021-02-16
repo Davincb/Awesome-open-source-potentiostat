@@ -33,4 +33,23 @@ Further details:
 
 https://iorodeo.com/products/potentiostat-shield
 
+## Dstat
 
+Source File Repository:
+
+https://microfluidics.utoronto.ca/gitlab/dstat/dstat-documentation/-/wikis/home
+
+Further details:
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140349
+
+## Cheapstat 
+
+Source File Repository:
+
+https://github.com/jbuchbinder/CheapStat
+
+
+Further details:
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023783#s4
