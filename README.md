@@ -4,7 +4,7 @@ Collection of hardware and software related to potentiostats (https://en.wikiped
 # Open source potentiostats
 
 
-# USB Potentiostat/Galvanostat
+## USB Potentiostat/Galvanostat
 
 Source File Repository:
 
@@ -13,7 +13,7 @@ https://osf.io/mk45u/
 Further details:
 
 https://www.sciencedirect.com/science/article/pii/S2468067217300317
-# Mystat
+## Mystat
 
 Source File Repository:
 
@@ -23,7 +23,7 @@ Further details:
 
 https://www.sciencedirect.com/science/article/pii/S2468067220300729
 
-# Rodeostat
+## Rodeostat
 
 Source File Repository:
 
