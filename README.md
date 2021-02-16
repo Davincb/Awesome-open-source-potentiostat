@@ -60,7 +60,7 @@ Collection of hardware and software related to potentiostats (https://en.wikiped
 
 ## Lecture based material 
 
-Lecture entitled "Potentiostatic Circuit". Its interesting to note that the price of commercial potentiostats does not seem to have dropped in anyway since this lecture:
+Lecture entitled "Potentiostatic Circuit". Its interesting to note that the price of commercial potentiostats does not seem to have dropped very much since this lecture:
 
 https://www.youtube.com/watch?v=fgSd9HvBUhI
 
