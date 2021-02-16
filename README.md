@@ -71,6 +71,11 @@ https://www.youtube.com/watch?v=XnN4YiY_oW8
 
 ## Literature 
 
-Peter Kissinger, William R. Heineman Laboratory Techniques In Electroanalytical Chemistry CRC Press ( 1996)
+Fundamentals and applications Bard, Faulkner (2001)
+https://scholar.google.com/scholar_lookup?title=Electrochemical%20Methods%3A%20Fundamentals%20and%20Applications&publication_year=2000&author=A.J.%20Bard&author=L.R.%20Faulkner
+
+
+
+Peter Kissinger, William R. Heineman Laboratory Techniques In Electroanalytical Chemistry ( 1996)
 
 https://archive.org/details/peterkissingerwilliamr.heinemanlaboratorytechniquesinelectroanalyticalchemistrycrcpress1996/mode/2up
