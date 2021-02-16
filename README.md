@@ -27,51 +27,51 @@ https://www.sciencedirect.com/science/article/pii/S2468067220300729
 
 Source File Repository:
 
-https://github.com/iorodeo/potentiostat
+[Caption](https://github.com/iorodeo/potentiostat)
 
 Further details:
 
-https://iorodeo.com/products/potentiostat-shield
+[Caption](https://iorodeo.com/products/potentiostat-shield)
 
 ## Dstat
 
 Source File Repository:
 
-https://microfluidics.utoronto.ca/gitlab/dstat/dstat-documentation/-/wikis/home
+[Caption](https://microfluidics.utoronto.ca/gitlab/dstat/dstat-documentation/-/wikis/home)
 
 Further details:
 
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140349
+[Caption](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140349)
 
 ## PSoC based Potentiostat
 
 Source File Repository:
 
-https://hackaday.io/project/160071-easy-to-build-psoc-based-potentiostat
+[Caption](https://hackaday.io/project/160071-easy-to-build-psoc-based-potentiostat)
 
 
 Further details:
 
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201353
+[Caption](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201353)
 
 ## Kickstat 
 
 Source File Repository:
 
-https://github.com/LinnesLab/KickStat-Paper-Firmware
+[Caption](https://github.com/LinnesLab/KickStat-Paper-Firmware)
 
 
 Further details:
 
-https://www.mdpi.com/1424-8220/20/8/2407
+[Caption](https://www.mdpi.com/1424-8220/20/8/2407)
 
 ## Cheapstat 
 
 Source File Repository:
 
-https://github.com/jbuchbinder/CheapStat
+[Caption](https://github.com/jbuchbinder/CheapStat)
 
 
 Further details:
 
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023783#s4
+[Caption](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023783#s4)
