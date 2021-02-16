@@ -54,3 +54,22 @@ Collection of hardware and software related to potentiostats (https://en.wikiped
 
 
 [Further details](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0023783#s4)
+
+
+# Resources for new designs
+
+## Lecture bsed material 
+
+Lecture entitled "Potentiostatic Circuit":
+
+https://www.youtube.com/watch?v=fgSd9HvBUhI
+
+Electrochemistry Lec 05 19jan06 Potentiostats and Reference Electrodes Caltech CHEM 117:
+
+https://www.youtube.com/watch?v=XnN4YiY_oW8
+
+## Literature 
+
+Peter Kissinger, William R. Heineman Laboratory Techniques In Electroanalytical Chemistry CRC Press ( 1996)
+
+https://archive.org/details/peterkissingerwilliamr.heinemanlaboratorytechniquesinelectroanalyticalchemistrycrcpress1996/mode/2up
