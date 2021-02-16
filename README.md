@@ -58,7 +58,7 @@ Collection of hardware and software related to potentiostats (https://en.wikiped
 
 # Resources for new designs
 
-## Lecture bsed material 
+## Lecture based material 
 
 Lecture entitled "Potentiostatic Circuit":
 
