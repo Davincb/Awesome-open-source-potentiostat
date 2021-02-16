@@ -1,5 +1,5 @@
 # Awesome-open-source-potentiostat
-Collection of hardware and software related to potentiostats (https://en.wikipedia.org/wiki/Potentiostat) intended to be used to save time in making design decisions. I have only included projects where full documentation, files, etc are still hosted. If you know of other projects, please add them. 
+Collection of resources related to potentiostats (https://en.wikipedia.org/wiki/Potentiostat) intended to be used to save time in making design decisions. I have only included projects where full documentation, files, etc are still hosted. If you know of other projects, please add them. 
 
 # Open source potentiostats
 
