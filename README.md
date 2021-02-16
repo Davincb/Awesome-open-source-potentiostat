@@ -43,6 +43,28 @@ Further details:
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140349
 
+## PSoC based Potentiostat
+
+Source File Repository:
+
+https://hackaday.io/project/160071-easy-to-build-psoc-based-potentiostat
+
+
+Further details:
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201353
+
+## Kickstat 
+
+Source File Repository:
+
+https://github.com/LinnesLab/KickStat-Paper-Firmware
+
+
+Further details:
+
+https://www.mdpi.com/1424-8220/20/8/2407
+
 ## Cheapstat 
 
 Source File Repository:
